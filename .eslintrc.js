@@ -19,7 +19,6 @@ module.exports = {
     "rules": {
       "react/prop-types": ["off"],
       "quotes": ["error","single"],
-      "semi": ["error","always"],
       "no-console": ["warn", { "allow": ["info", "error"] }]
     }
   };
